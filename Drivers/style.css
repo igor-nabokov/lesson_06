@@ -1,0 +1,12 @@
+#semargl {
+	width: 200px;
+	height: 200px;
+	background-image: url("images/semargl.jpg");
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.buttons  {
+	margin-top: 250px;
+}
